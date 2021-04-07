@@ -7,8 +7,8 @@ The course is based on [Jupyter notebooks](https://jupyter.org/), which allow fo
 
 ## Data on Atmospheric Composition
 This course features the following **satellite** data:
-* `Metop-A/B GOME-2 Level 2` data
-* `Metop-A/B GOME-2 Level 3` reprocessed and regridded data
+* `Metop-A/B/C GOME-2 Level 2` data
+* `Metop-A/B/C GOME-2 Level 3` reprocessed and regridded data
 * `Polar Multi-Sensor Aerosol Optical Properties (PMAp) Level 2` data
 * `Metop-A/B IASI Level 2` data
 * `Copernicus Sentinel-5P TROPOMI Level 2` data
@@ -83,8 +83,10 @@ The course follows a modular approach and offers modules on:
    * [326 - Time-series analysis - Europe - Sentinel-5P TROPOMI - Tropospheric NO<sub>2</sub>](./30_case_studies/326_air_pollution_time-series_europe_2020_Sentinel-5P_TROPOMI_NO2Tropo_L2.ipynb)
 
 ##### *Stratospheric Ozone*
-   * [331 - Antarctic ozone hole - Summer 2019](./30_case_studies/331_stratospheric_ozone_2019.ipynb)
-   * [332 - Antarctic ozone hole - CAMS animation - Summer 2019](./30_case_studies/332_stratospheric_ozone_animation_2019.ipynb)
+   * [331 - Antarctic ozone hole 2019 - Multi-data](./30_case_studies/331_stratospheric_ozone_Antarctic_2019.ipynb)
+   * [332 - Antarctic ozone hole 2019 - CAMS animation](./30_case_studies/332_stratospheric_ozone_Antarctic_2019_CAMS_EAC4_animation.ipynb)
+   * [333 - Antarctic ozone hole 2020 - Metop-A/B/C GOME-2 Level 2](./30_case_studies/333_stratospheric_ozone_Antarctic_2020_Metop-ABC_GOME-2_O3_L2.ipynb)
+   * [334 - Arctic ozone hole 2020 - Metop-A/B/C IASI Level 2 ](./30_case_studies/334_stratospheric_ozone_Arctic_2020_Metop-ABC_IASI_O3_L2.ipynb)
 
 
 ### <a id='exercises'></a>40 - EXERCISES
@@ -99,6 +101,10 @@ The course follows a modular approach and offers modules on:
 
 ##### *Copernicus Atmosphere Monitoring Service*
    * [431 - CAMS Global Reanalysis (EAC4) - Total Column Carbon Monoxide](./40_exercises/431_CAMS_EAC4_tcco_exercise.ipynb)
+
+#### *Metop-A/B/C GOME-2 and IASI*
+   * [441 - Metop-A/B/C GOME-2 - Ozone](./40_exercises/441_Metop-ABC_GOME-2_O3_L2_exercise.ipynb)
+   * [442 - Metop-A/B/C IASI - Ozone](./40_exercises/442_Metop-ABC_IASI_O3_L2_exercise.ipynb)
 
 <br>
 
