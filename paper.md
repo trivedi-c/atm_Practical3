@@ -23,7 +23,7 @@ affiliations:
    index: 2
  - name: European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT)
    index: 3
-date: 29 January 2021
+date: 30 July 2021
 bibliography: paper.bib
 ---
 
