@@ -23,3 +23,6 @@ shapely==1.7.1
 scikit-image==0.18.1
 urllib3==1.26.2
 xarray==0.16.2
+satpy==0.33.0
+wget==3.2
+airbase==0.2.7

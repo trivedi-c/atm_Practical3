@@ -1,6 +1,6 @@
 # LTPy - Learning tool for Python on Atmospheric Composition Data
 
-**LTPy - Learning tool for Python on Atmospheric Composition Data** is a Python-based training course on Atmospheric Composition Data. The training course covers [10 - DATA ACCESS](./10_data_access/), [20 - DATA DISCOVERY](./20_data_discovery/), [30 - CASE STUDIES](./30_case_studies/) and [40 - EXERCISES](./40_exercises/) of satellite- and model-based data on Atmospheric Composition.
+**LTPy - Learning tool for Python on Atmospheric Composition Data** is a Python-based training course on Atmospheric Composition Data. The training course covers [10 - DATA ACCESS](./10_data_access/), [20 - DATA DISCOVERY](./20_data_discovery/), [30 - CASE STUDIES](./30_case_studies/) and [40 - EXERCISES](./40_exercises/) of satellite- and model-based data on Atmospheric Composition. Under the section [50 - MODULES](#modules), we gradually develop self-contained modules on atmospheric composition data applications.
 
 The course is based on [Jupyter notebooks](https://jupyter.org/), which allow for a high-level of interactive learning, as code, text description and visualisation is combined in one place. If you have not worked with `Jupyter Notebooks` before, you can look at the module [01 - Python and Project Jupyter 101](./01_Python_and_Jupyter_101.ipynb) to get a short introduction to Jupyter notebooks and their benefits.
 
@@ -115,6 +115,38 @@ The course follows a modular approach and offers modules on:
 #### *Metop-A/B/C GOME-2 and IASI*
    * [441 - Metop-A/B/C GOME-2 - Ozone](./40_exercises/441_Metop-ABC_GOME-2_O3_L2_exercise.ipynb)
    * [442 - Metop-A/B/C IASI - Ozone](./40_exercises/442_Metop-ABC_IASI_O3_L2_exercise.ipynb)
+
+
+### <a id='modules'></a>50 - MODULES
+#### **Dust monitoring and forecasting** 
+> [Index](./50_modules/01_dust/00_index.ipynb)
+
+##### *01 - Satellite-based data*
+* [11 - Sentinel-5P TROPOMI Ultraviolet Aerosol Index Level 2](./50_modules/01_dust/01_satellite-based_data/11_Sentinel-5P_TROPOMI_AI_L2_load_browse.ipynb)
+* [12 - Polar Multi-Sensor Aerosol Optical Properties (PMAp) Product - Aerosol Optical Depth](./50_modules/01_dust/01_satellite-based_data/12_PMAp_AOD_L2_load_browse.ipynb)
+* [13 - Metop-ABC GOME-2 Absorbing Aerosol Index Level 3](./50_modules/01_dust/01_satellite-based_data/13_Metop-ABC_GOME-2_AAI_L3_load_browse.ipynb)
+* [14 - Meteosat Second Generation SEVIRI Level 1 true colour and dust RGB](./50_modules/01_dust/01_satellite-based_data/14_MSG_dust_product_L1_load_browse.ipynb)
+* [15 - MODIS Level 2 10 km aerosol product](./50_modules/01_dust/01_satellite-based_data/15_MODIS_10km_aerosol_product_L2_load_browse.ipynb)
+* [16 - MODIS Level 1B true color and dust RGB](./50_modules/01_dust/01_satellite-based_data/16_MODIS_L1B_RGB_load_browse.ipynb)
+
+##### *02 - Ground-based observations*
+* [21 - AERONET - AErosol RObotic NETwork](./50_modules/01_dust/02_ground-based_observations/21_AERONET.ipynb)
+* [22 - European Aerosol Research Lidar Network (EARLINET) - Backscatter profiles](./50_modules/01_dust/02_ground-based_observations/22_EARLINET.ipynb)
+* [23 - European Environment Agency Air Quality Data](./50_modules/01_dust/02_ground-based_observations/23_EEA_Air_Quality.ipynb)
+
+##### *03 - Model-based data*
+* [31 - WMO SDS-WAS - Dust Forecast - MONARCH](./50_modules/01_dust/03_model-based_data/31_SDS-WAS_MONARCH_dust_forecast.ipynb)
+* [32 - CAMS global atmospheric composition forecast - Dust Aerosol Optical Depth](./50_modules/01_dust/03_model-based_data/32_CAMS_global_forecast_duaod_load_browse.ipynb)
+* [33 - CAMS European Air Quality Forecasts - Dust concentration](./50_modules/01_dust/03_model-based_data/33_CAMS_European_air_quality_forecast_dust_concentration_load_browse.ipynb)
+
+##### *04 - Assignments*
+* [01 - Practicals](./50_modules/01_dust/04_assignments/01_practicals.ipynb)
+* [02 - Assignment](./50_modules/01_dust/04_assignments/02_assignment.ipynb)
+* [03 - Practicals](./50_modules/01_dust/04_assignments/03_practicals.ipynb)
+* [04 - Assignment](./50_modules/01_dust/04_assignments/04_assignment.ipynb)
+* [05 - Practicals](./50_modules/01_dust/04_assignments/05_practicals.ipynb)
+
+
 
 <br>
 
